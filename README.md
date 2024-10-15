@@ -4,19 +4,18 @@
 This project is a responsive website for VirtualR, featuring an interactive navigation bar that enhances user experience by changing its style based on user interactions. The menu is designed to have a fixed position, ensuring it remains visible on all pages.
 
 ## Features
-Fixed Position: The navigation bar stays at the top of the viewport when scrolling.
-Color Change on Scroll: The background color of the menu changes when the user scrolls down the page.
-Hover Effects: The font color and style of menu items change when hovered over, providing visual feedback.
-Responsive Design: The website is accessible across various devices, ensuring a seamless experience on mobile, tablet, and desktop.
+Fixed Position: The navigation bar stays at the top of the viewport when scrolling.<br/>
+Color Change on Scroll: The background color of the menu changes when the user scrolls down the page.<br/>
+Hover Effects: The font color and style of menu items change when hovered over, providing visual feedback.<br/>
+Responsive Design: The website is accessible across various devices, ensuring a seamless experience on mobile, tablet, and desktop.<br/>
 
 ## Installation:<br/>
   Clone the repository:<br/>
     git clone: https://github.com/Shravan21105/PRODIGY_WD_01.git<br/>
     cd repo-name<br/>
-Install dependencies: <br/>
-  npm install <br/>
-  Start the development server:<br/>
-    npm run dev<br/>
+Install dependencies: npm install <br/>
+  Start the development server: npm run dev<br/>
+    
 
 ## Usage
 The navigation bar is structured using semantic HTML and styled with CSS to create an engaging user experience. You can customize the layout, colors, and styles to align with your project branding.
