@@ -12,15 +12,10 @@ Responsive Design: The website is accessible across various devices, ensuring a 
 ## Installation
 Clone the repository:
 git clone: https://github.com/Shravan21105/PRODIGY_WD_01.git
-
 cd repo-name
-
 Install dependencies:
-
 npm install
-
 Start the development server:
-
 npm run dev
 
 ## Usage
